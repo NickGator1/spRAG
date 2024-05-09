@@ -161,3 +161,7 @@ cython_debug/
 
 # Embedded Weaviate data
 weaviate
+
+
+# NodeJS
+node_modules/
